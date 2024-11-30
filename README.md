@@ -4,8 +4,8 @@ The design focuses on user experience, featuring a clean, intuitive layout and r
 
 This project highlights my skills in modern web technologies and best practices for creating functional and visually appealing designs.
 
-Layout design:
+Layout template:
 https://www.figma.com/design/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0-1&node-type=canvas&t=TDzJrMP5QlBhbdWa-0
 
 Preview:
-
+https://emilsukiennik.github.io/Bose-landing-page/
