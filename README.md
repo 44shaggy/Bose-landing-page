@@ -7,5 +7,5 @@ This project highlights my skills in modern web technologies and best practices 
 Layout template:
 https://www.figma.com/design/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0-1&node-type=canvas&t=TDzJrMP5QlBhbdWa-0
 
-Preview:
+PREVIEW:
 https://emilsukiennik.github.io/Bose-landing-page/
